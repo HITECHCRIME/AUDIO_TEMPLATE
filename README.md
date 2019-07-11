@@ -20,6 +20,17 @@ Description.
 
 ```
 
+## Lyrics Production
+
+16bar - verse
+
+| x | 1 | 2 | 3 | 4 |
+|---|---|---|---|---|
+| 1 |   |   |   |   |
+| 2 |   |   |   |   |
+| 3 |   |   |   |   |
+| 4 |   |   |   |   |
+
 ## Music Video
 
 
