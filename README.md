@@ -1,4 +1,4 @@
-(cover) ![](57175019_319474918741616_8502199518755923887_n.jpg)
+[cover] ![](57175019_319474918741616_8502199518755923887_n.jpg)
 
 # ARTIST - TITLE
 
@@ -9,9 +9,9 @@
 Description.
 
 
-**Title:** x / **Featuring:** x
+**Title:**  / **Featuring:** 
 
-**Production:** x / **Lyrics:** x
+**Production:**  / **Lyrics:** 
 
 ## Lyrics
 
@@ -34,7 +34,6 @@ Description.
 | 3 | *i'm* **tempt**ed in a | **u**nique way  |  **you** probably |  **won't** think |
 | 4 | *as i* **reach** to grab the |  **mic** i contem-  | **plate** what i | **might** say |
 
-## Music Video
-
-
 ## Notes
+
+## Music Video
