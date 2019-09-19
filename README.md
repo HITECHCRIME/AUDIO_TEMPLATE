@@ -1,8 +1,8 @@
 [cover] ![](57175019_319474918741616_8502199518755923887_n.jpg)
 
-# ARTIST - TITLE
+# ARTIST_ TITLE
 
-**Listen now:** x
+**Listen now:** 
 
 ## Project Data
 
@@ -20,7 +20,7 @@ Description.
 
 ```
 
-## Lyrics Production
+## Lyrics Testing Ground
 
 16bar - verse
 
