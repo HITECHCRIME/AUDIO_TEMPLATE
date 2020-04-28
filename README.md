@@ -14,9 +14,9 @@ Description.
 
 > **Beat:**
 
-**Narrative Design:**
+> **Narrative Design:**
 
-**Music Video Credits:**
+> **Music Video Credits:**
 
 
 ## Lyrics
